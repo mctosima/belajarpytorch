@@ -31,5 +31,16 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/mctosima_
+    - icon: fontawesome/brands/github
+      link: https://github.com/mctosima/belajarpytorch
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/mctosima
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@mctosima
+
 
   
