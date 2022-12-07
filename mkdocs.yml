@@ -12,3 +12,5 @@ nav:
 
 plugins:
   - mkdocs-jupyter
+  - search
+  - social
