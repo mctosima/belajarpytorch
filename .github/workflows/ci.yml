@@ -19,3 +19,6 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-jupyter 
       - run: mkdocs gh-deploy --force
+      - name: Deploy to Github Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
