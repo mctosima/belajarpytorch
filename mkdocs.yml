@@ -8,7 +8,3 @@ theme:
 nav:
   - Home: index.md
   - 00. Getting Started with PyTorch: '00_pytorch_fundamentals.ipynb'
-
-plugins:
-  - mkdocs-jupyter:
-    include_source: True
