@@ -4,19 +4,8 @@ site_description: Belajar PyTorch by McTosima
 
 theme:
   name: material
-
-nav:
-  - Home: index.md
-  - About: about.md
-  - 00. Apa itu PyTorch: 00_Apa_itu_pytorch.ipynb
-
-plugins:
-  - mkdocs-jupyter
-  - search
-  - social
-
-theme:
   palette:
+
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -30,6 +19,17 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - 00. Apa itu PyTorch: 00_Apa_itu_pytorch.ipynb
+
+plugins:
+  - mkdocs-jupyter
+  - search
+  - social
 
 extra:
   social:
