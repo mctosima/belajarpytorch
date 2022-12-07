@@ -7,4 +7,5 @@ theme:
 
 nav:
   - Home: index.md
+  - About: about.md
   - 00. Getting Started with PyTorch: '00_pytorch_fundamentals.ipynb'
