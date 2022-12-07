@@ -8,7 +8,7 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - 00. Getting Started with PyTorch: '00_pytorch_fundamentals.ipynb'
+  - 00. Apa itu PyTorch: 00_Apa_itu_pytorch.ipynb
 
 plugins:
   - mkdocs-jupyter
