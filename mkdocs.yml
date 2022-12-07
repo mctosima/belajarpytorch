@@ -4,3 +4,11 @@ site_description: Belajar PyTorch by McTosima
 
 theme:
   name: material
+
+nav:
+  - Home: index.md
+  - 00. Getting Started with PyTorch: '00_pytorch_fundamentals.ipynb'
+
+plugins:
+  - mkdocs-jupyter:
+    include_source: True
