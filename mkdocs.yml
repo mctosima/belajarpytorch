@@ -25,6 +25,7 @@ nav:
   - Home: index.md
   - About: about.md
   - 00. Apa itu PyTorch: 00_Apa_itu_pytorch.ipynb
+  - Cheatsheet: cheastheet.md
 
 plugins:
   - mkdocs-jupyter
@@ -41,6 +42,5 @@ extra:
       link: https://www.instagram.com/mctosima
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@mctosima
-
 
   
