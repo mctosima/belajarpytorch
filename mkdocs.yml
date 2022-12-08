@@ -5,10 +5,10 @@ site_description: Belajar PyTorch by McTosima
 theme:
   name: material
   palette:
-
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -16,6 +16,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: orange
+      accent: lime
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -24,8 +26,9 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - 00. Apa itu PyTorch: 00_Apa_itu_pytorch.ipynb
-  - Cheatsheet: cheastheet.md
+  - 00. Pengantar: 00_Pengantar.ipynb
+  - Cheatsheet: cheatsheet.md
+  - Mempersiapkan PyTorch: instalasi.md
 
 plugins:
   - mkdocs-jupyter
