@@ -23,6 +23,9 @@ Materi pembelajaran ini dapat kamu akses secara gratis dan akan tetap selalu gra
 ### Changelog
 - 2022-12-08: Materi [pengantar](./00_Pengantar.ipynb) selesai dibuat
 
+## Kolom Diskusi
+Anda dapat memanfaatkan kolom diskusi yang ada pada [tautan berikut ini](https://github.com/mctosima/belajarpytorch/discussions)
+
 ## Kontributor
 - Martin Clinton Tosima Manullang ([@mctosima](https://github.com/mctosima))
 - I Wayan Wiprayoga Wisesa ([@iwawiwi](https://github.com/iwawiwi))
