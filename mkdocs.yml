@@ -25,10 +25,10 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
   - 00. Pengantar: 00_Pengantar.ipynb
   - Cheatsheet: cheatsheet.md
   - Mempersiapkan PyTorch: instalasi.md
+  - Sumber Belajar: sumber.md
 
 plugins:
   - mkdocs-jupyter
