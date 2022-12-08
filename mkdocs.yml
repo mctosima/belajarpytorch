@@ -24,7 +24,7 @@ theme:
 
 
 nav:
-  - Home: index.md
+  - Home: home.md
   - About: about.md
   - 00. Pengantar: 00_Pengantar.ipynb
   - Cheatsheet: cheatsheet.md
