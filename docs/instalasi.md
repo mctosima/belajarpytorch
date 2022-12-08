@@ -95,6 +95,7 @@ Selanjutnya kamu dapat membuat file baru berekstensi ipynb dan mencoba mengikuti
 ## Mengalami Kendala Instalasi
 
 Anda dapat mengikuti panduan video yang ada pada tautan berikut ini:
+
 - Instalasi conda pada Windows: [Video](https://www.youtube.com/watch?v=1mn-vA5l_90)
 - Instalasi conda, vscode, jupyternotebook pada MacOS M1/m2: [Video](https://www.youtube.com/watch?v=lRJ53rPrKD0)
 - Instalasi PyTorch pada M1/M2 MacOS: [Video](https://www.youtube.com/watch?v=VEDy-c5Sk8Y)
