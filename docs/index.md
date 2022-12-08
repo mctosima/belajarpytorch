@@ -1,7 +1,7 @@
 # Belajar Pytorch Berbahasa Indonesia
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mctosima/belajarpytorch/assets/Homebanner1080.gif" width="1080"/>
+<img src="https://raw.githubusercontent.com/mctosima/belajarpytorch/main/assets/Homebanner1080.gif" width="1080"/>
 </div>
 
 Ini merupakan pembaruan pembelajaran PyTorch yang sebelumnya pernah kami buat [di sini](https://github.com/mctosima/pengantarDLpytorch)
