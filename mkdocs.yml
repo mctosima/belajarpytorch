@@ -26,6 +26,7 @@ theme:
 nav:
   - Home: index.md
   - 00. Pengantar: 00_Pengantar.ipynb
+  - 01. Hello World: 01_HelloWorldnyaDL.ipynb
   - Cheatsheet: cheatsheet.md
   - Mempersiapkan PyTorch: instalasi.md
   - Sumber Belajar: sumber.md

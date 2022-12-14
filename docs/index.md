@@ -19,10 +19,11 @@ Materi pembelajaran ini dapat kamu akses secara gratis dan akan tetap selalu gra
 | **Topik**                                    | **Bahasan**                   | **Status**         |
 | -------------------------------------------- | ----------------------------- | ------------------ |
 | [0. Pengantar](./00_Pengantar.ipynb)         | Memulai penggunaan PyTorch    | Final (20221212)   |
-| [1. Hello World](./01_HelloWorldnyaDL.ipynb) | Membuat model DL pertama kamu | Under Construction | 
+| [1. Hello World](./01_HelloWorldnyaDL.ipynb) | Membuat model DL pertama kamu | Final (20221214)   | 
 
 
 ### Changelog
+- 2022-12-14: Materi [hello world](./01_HelloWorldnyaDL.ipynb) selesai dibuat
 - 2022-12-12: Materi [hello world](./01_HelloWorldnyaDL.ipynb) diinisiasi
 - 2022-12-08: Materi [pengantar](./00_Pengantar.ipynb) selesai dibuat
 
