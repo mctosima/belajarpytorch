@@ -7,4 +7,4 @@
 ...
 
 Untuk mengakses konten dari repositori ini, silahkan kunjungi:
-[https://mctosima.github.io/belajarpytorch/](https://mctosima.github.io/belajarpytorch/)
+[belajarpytorch.my.id](https://belajarpytorch.my.id/)
