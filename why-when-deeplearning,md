@@ -1,0 +1,13 @@
+# Mengapa dan Kapan Menggunakan Deep Learning?
+
+> Jika dapat melakukan pemrograman dengan rule-based, kenapa tidak?
+
+## Kapan Menggunakan Deep Learning?
+- Ketika terlalu banyak rule untuk mengatasi permasalahan tersebut
+- Ketika sebuah "set of rule" tidak dapat didefinisikan karena permasalahannya sangat dinamis dan kerap berubah
+- Ketika data yang dimiliki sangat banyak dan kompleks dan tidak dapat didefinisikan dengan rule-based
+
+## Kapan Tidak Menggunakan Deep Learning?
+- Ketika sebuah permasalahan harus diselesaikan dengan solusi yang dapat dijelaskan
+- Ketika sebuah permasalahan dapat diselesaikan dengan rule-based
+- Ketika model gagal untuk mempelajari pola yang ada pada data
