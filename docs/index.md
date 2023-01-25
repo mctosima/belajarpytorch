@@ -16,14 +16,17 @@ Materi pembelajaran ini dapat kamu akses secara gratis dan akan tetap selalu gra
 
 ## Outline Materi & Changelog
 
-| **Topik**                                                     | **Bahasan**                                   | **Status**            |
-| --------------------------------------------                  | -----------------------------                 | ------------------    |
-| [0. Pengantar](./00_Pengantar.ipynb)                          | Memulai penggunaan PyTorch                    | Final (20221212)      |
-| [1. Hello World](./01_HelloWorldnyaDL.ipynb)                  | Membuat model DL pertama kamu                 | Final (20221214)      |
-| [2. Klasifikasi Sederhana](./02_KlasifikasiSederhana.ipynb)   | Membuat model DL untuk klasifikasi sederhana  | Draft                 |
+| **Topik**                                                   | **Bahasan**                                   | **Status**       |
+| ----------------------------------------------------------- | --------------------------------------------- | ---------------- |
+| [0. Pengantar](./00_Pengantar.ipynb)                        | Memulai penggunaan PyTorch                    | Final (20221212) |
+| [1. Hello World](./01_HelloWorldnyaDL.ipynb)                | Membuat model DL pertama kamu                 | Final (20221214) |
+| [2. Klasifikasi Sederhana](./02_KlasifikasiSederhana.ipynb) | Membuat model DL untuk klasifikasi sederhana  | Final (20230125) |
+| [3. Klasifikasi Multi Kelas](./03_Multiclass.ipynb)         | Membuat model DL untuk klasifikasi multikelas | Final (20230125) |
+| [4. Klasifikasi FashionMNIST](./04_FashionMNIST.ipynb)      | Computer Vision dengan Dataset FashionMNIST   | Final (20230125) |
 
 
 ### Changelog
+- 2023-01-25: Materi [Klasifikasi Sederhana](./02_KlasifikasiSederhana.ipynb), [Klasifikasi Multi Kelas](./03_Multiclass.ipynb), dan [Klasifikasi FashionMNIST](./04_FashionMNIST.ipynb) selesai dibuat
 - 2022-12-16: Materi [klasifikasi sederhana](./02_KlasifikasiSederhana.ipynb) diinisiasi
 - 2022-12-14: Materi [hello world](./01_HelloWorldnyaDL.ipynb) selesai dibuat
 - 2022-12-12: Materi [hello world](./01_HelloWorldnyaDL.ipynb) diinisiasi
