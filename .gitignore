@@ -1,3 +1,4 @@
 .cache
 assets/saved_model/
 docs/data/
+docs/lightning_logs/
