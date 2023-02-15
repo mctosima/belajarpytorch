@@ -2,3 +2,5 @@
 assets/saved_model/
 docs/data/
 docs/lightning_logs/
+going_modular/__pycache__/
+docs/__pycache__/
